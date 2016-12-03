@@ -1,8 +1,13 @@
-using System;
+using UnityEngine;
+using System.Collections;
 
-public class AR_Script
+public class AR_Script : MonoBehaviour
 {
-	public AR_Script()
+	void Start()
+	{
+	}
+	
+	void Update()
 	{
 	}
 }
